@@ -40,9 +40,22 @@
         }
       ]
     ],
+    "updates": {
+      "url": "https://u.expo.dev/a29ea0d5-3da2-40e0-a583-25fa70c13ea3"
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a29ea0d5-3da2-40e0-a583-25fa70c13ea3"
+      }
+    },
+    "owner": "shalini2905"
   }
 }
